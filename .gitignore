@@ -1,19 +1,1 @@
-node_modules/
-dist/
-.env
-ssh-keygen -t ed25519 -C "your_email@example.com"
 
-SHA256:/ylCXDKZA34Zs74T88hGgp/FEl6HDHcWUUlM5h6NB3k pritamcyber0@gmail.com
-
-The key's randomart image is:
-+--[ED25519 256]--+
-|          oB*o   |
-|      o + oo++E  |
-|     . = @  +.o  |
-|      o & o. o   |
-|     o BS*  .    |
-|    . + X.       |
-|     . O *.      |
-|      o B o. .   |
-|       . o .o    |
-+----[SHA256]-----+
